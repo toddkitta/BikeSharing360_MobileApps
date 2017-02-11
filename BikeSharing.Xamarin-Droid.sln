@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeSharing.Clients.Core", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeSharing.Clients.Droid", "src\BikeSharing.Clients.Droid\BikeSharing.Clients.Droid.csproj", "{4D43F515-19A1-4132-9360-96EA3607374F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeSharing.Tests.Droid", "src\BikeSharing.Tests.Droid\BikeSharing.Tests.Droid.csproj", "{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,22 @@ Global
 		{4D43F515-19A1-4132-9360-96EA3607374F}.Release|x86.ActiveCfg = Release|Any CPU
 		{4D43F515-19A1-4132-9360-96EA3607374F}.Release|x86.Build.0 = Release|Any CPU
 		{4D43F515-19A1-4132-9360-96EA3607374F}.Release|x86.Deploy.0 = Release|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Debug|ARM.Build.0 = Debug|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Debug|x64.Build.0 = Debug|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Debug|x86.Build.0 = Debug|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Release|ARM.ActiveCfg = Release|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Release|ARM.Build.0 = Release|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Release|x64.ActiveCfg = Release|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Release|x64.Build.0 = Release|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Release|x86.ActiveCfg = Release|Any CPU
+		{757FD7C3-3FB4-4F8A-88BB-C2C950B352B0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
